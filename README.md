@@ -8,3 +8,7 @@
   - 漏洞均为IE,Adobe,MicroSoft Office等流行软件的漏洞
   - 用于APT技术研究
   
+  ## Thanks
++ CVE-2018-15982
+  - Ridter 表哥提提供的Exploit生成脚本
++ 有些脚本来源于网络无法及时感谢那些提供的师傅和大佬们，在这里统一说声谢谢。
