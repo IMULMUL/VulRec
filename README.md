@@ -1,7 +1,7 @@
 # VulRec
 
   
-  `Vulnerability Recurrence：漏洞复现记录`
+  `Vulnerability Recurrence：漏洞复现仓库`
   
   ## 漏洞的复现记录和复现说明
   - 复现最新的漏洞
