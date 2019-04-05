@@ -17,4 +17,10 @@
 
 + Windows DHCP Server
   - CVE-2019-0626
+
++ WinRAR 
+  - CVE-2018-20250
+
++ Google Chrome
+  - CVE-2019-5786
  
