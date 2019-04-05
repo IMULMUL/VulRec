@@ -12,5 +12,6 @@
 + CVE-2018-15982
   - Ridter 表哥提提供的Exploit生成脚本
 + CVE-2018-20250 
+  - WinRAR
   - Origin:https://github.com/manulqwerty/Evil-WinRAR-Gen  
 + 有些脚本来源于网络无法及时感谢那些提供的师傅和大佬们，在这里统一说声谢谢。
