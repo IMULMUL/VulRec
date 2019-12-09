@@ -9,3 +9,5 @@
   - CVE-2018-4878
   - CVE-2018-15982
 
++ Mstsc Path Travel
+
